@@ -1,0 +1,2162 @@
+{
+	"folder_history":
+	[
+		"/Data/Data/Node.js/indobarkom.com",
+		"/Data/Data/Node.js/websockets-playlist",
+		"/Data/Data/Node.js/websocket",
+		"/Data/Data/Node.js/websockets",
+		"/var/www/html/kuliah/form_nikah",
+		"/var/www/html/kuliah/form nikah",
+		"/home/aal/ppl 2017/Android_HHIS-master",
+		"/var/www/html/kuliah/rosyid2",
+		"/Data/Data/Node.js/CRUD/server",
+		"/Data/Data/java/Spring/FahrulExample",
+		"/home/aal/Desktop/blog",
+		"/Data/Data/smt4/proglan/ainun-blog",
+		"/var/www/html/tokoku",
+		"/var/www/html/kuliah/mymart-abid",
+		"/Data/Data/smt4/Pemrogaman Framework/ainun/mymart-abid",
+		"/var/www/html/yii2-advanced-api",
+		"/var/www/html/php/hhis-api",
+		"/var/www/html/php/yii2-advanced-api-template-master",
+		"/var/www/html/pencitku",
+		"/var/www/html/hhis",
+		"/var/www/html/php/app",
+		"/var/www/html/php/basic",
+		"/var/www/html/php/hhis",
+		"/var/www/html/themes/eshopper",
+		"/var/www/html/kuliah/yii2-shopper-master",
+		"/var/www/html/themes/yii2eshop-master",
+		"/var/www/html/kuliah/mymart",
+		"/var/www/html/php/advanced",
+		"/var/www/html/php/yii2-advanced-api-master",
+		"/var/www/html/despa-creational",
+		"/Data/Data/smt4/wpl/despa-creational",
+		"/Data/Data/Workspace/cariustadz/rest-api",
+		"/home/aal/go/src",
+		"/home/aal/NetBeansProjects/java/ProgLan/bank jpa",
+		"/Data/Data/Node.js",
+		"/Data/Data/Node.js/rest",
+		"/Data/Data/Node.js/expressku",
+		"/Data/Data/Node.js/node-js-tutorial",
+		"/media/aal/Windows10/Data/Node.js/prak1",
+		"/media/aal/Windows10/Data/java/Spring/spring-mvc-showcase",
+		"/var/www/html/Elements",
+		"/media/aal/Windows10/Data/java",
+		"/home/aal/my-app",
+		"/home/aal/NetBeansProjects/javaweb/HelloTomcat",
+		"/var/www/html/latihan/dotplant2-master/application",
+		"/media/aal/Windows10/Data/java/src/MultiThreading",
+		"/var/www/html/themes/01component-form/01component-form",
+		"/var/www/html/kuliah/kua.bak",
+		"/var/www/html/kuliah/ainun.id.bak",
+		"/var/www/html/quran",
+		"/var/www/html/kuliah/kua",
+		"/var/www/html/hhis/",
+		"/var/www/html/latihan/yii-advanced",
+		"/var/www/html/barkom",
+		"/var/www/html/mymart",
+		"/var/www/html/HHIS",
+		"/var/www/html/kuliah/yiibasic",
+		"/var/www/html/kuliah/yii-advanced",
+		"/var/www/html/kuliah/tokokita",
+		"/media/aal/Windows10/Data/smt4/proglan/dateserver",
+		"/media/aal/Windows10/Data/smt4/proglan/Praktikum/Minggu2",
+		"/home/aal/NetBeansProjects",
+		"/media/aal/Windows10/Data/smt4/javaBasic",
+		"/media/aal/Windows10/Data/smt4/proglan/JavaNet",
+		"/media/aal/Windows10/Data/smt4/source code/Prog Lanjut/java networking",
+		"/media/aal/Windows10/Data/smt4/proglanjut/java url",
+		"/media/aal/Windows10/Data/smt4/proglanjut/java networking",
+		"/var/www/html/advanced",
+		"/var/www/html/helloword",
+		"/home/aal/Downloads/Source-Code-from-Tutorials-master/React",
+		"/var/www/html/laravel-with-admin-lte",
+		"/var/www/html/adminlte-laravel",
+		"/var/www/html/crud2",
+		"/var/www/html/crud"
+	],
+	"last_version": 3126,
+	"last_window_id": 62,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"s",
+						"socket.io"
+					],
+					[
+						"ex",
+						"express"
+					],
+					[
+						"aa",
+						"aan.org"
+					],
+					[
+						"mailser",
+						"MailServer-1"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"yii",
+						"yii2-app"
+					],
+					[
+						"met",
+						"method\tAttr"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"que",
+						"Query"
+					],
+					[
+						"cons",
+						"console.log();"
+					],
+					[
+						"bind",
+						"bindconf"
+					],
+					[
+						"User",
+						"username"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"path",
+						"path_info\t(Statistic.php)"
+					],
+					[
+						"mo",
+						"models"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"stat",
+						"statistic\t(Statistic.php)"
+					],
+					[
+						"drop",
+						"dropDownList\t(BaseHtml.php)"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"Item",
+						"ItemCategory\t(Item.php)"
+					],
+					[
+						"name",
+						"namespace"
+					],
+					[
+						"Rou",
+						"Route::get\tBasic Get Route."
+					],
+					[
+						"titl",
+						"title"
+					],
+					[
+						"pro",
+						"protected"
+					],
+					[
+						"Schema",
+						"Schema::drop\tDrop an existing database table"
+					],
+					[
+						"DB",
+						"DB::update\tRun an update statement against the database."
+					],
+					[
+						"a",
+						"a\t<a>"
+					],
+					[
+						"Rout",
+						"Route::get\tBasic Get Route."
+					],
+					[
+						"Sche",
+						"Schema::drop\tDrop an existing database table"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "add",
+				"selected_items":
+				[
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"ta",
+						"Material Theme: Activate theme"
+					],
+					[
+						"set bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"ad",
+						"Project: Add Folder"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"AD",
+						"Project: Add Folder"
+					],
+					[
+						"a",
+						"Project: Add Folder"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"set php",
+						"Set Syntax: PHP"
+					],
+					[
+						"set p",
+						"Set Syntax: PHP"
+					],
+					[
+						"adde",
+						"Project: Add Folder"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Laravel ",
+						"Laravel Artisan 5: Route:Clear"
+					],
+					[
+						"the",
+						"Material Theme: Activate theme"
+					],
+					[
+						"them",
+						"Material Theme: Activate theme"
+					],
+					[
+						"theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"termina",
+						"Preferences: Terminality Settings – Default"
+					],
+					[
+						"termin",
+						"Preferences: Terminality Settings – User"
+					],
+					[
+						"mat",
+						"Material Theme: Configuration"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 170.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Data/Data/Node.js/indobarkom.com/package.json",
+				"/Data/Data/Node.js/indobarkom.com/index.js",
+				"/Data/Data/Node.js/websockets-playlist/public/styles.css",
+				"/Data/Data/Node.js/websockets-playlist/index.js",
+				"/Data/Data/Node.js/websockets/package.json",
+				"/Data/Data/Node.js/websockets/index.js",
+				"/var/www/html/kuliah/form_nikah/index.html",
+				"/home/aal/info.php",
+				"/var/www/html/kuliah/form_nikah/assets/css/style.css",
+				"/var/www/html/kuliah/form_nikah/assets/js/script.js",
+				"/var/www/html/kuliah/form nikah/database.sql",
+				"/var/www/html/kuliah/form nikah/config.php",
+				"/Data/Data/Node.js/CRUD/server/routes/users.js",
+				"/Data/Data/Node.js/CRUD/server/routes/todo.js",
+				"/home/aal/tmp/testing.php",
+				"/home/aal/nafis.conf",
+				"/Data/Data/smt4/netadmin/project2.sh",
+				"/Data/Data/java/Spring/Spring-MVC-Blog-unfinished/pom.xml",
+				"/Data/Data/java/Spring/db/Sample-data-users-posts.sql",
+				"/Data/Data/java/Spring/SpringBootCRUDApplicationExample/pom.xml",
+				"/Data/Data/java/Spring/Spring-MVC-Blog-unfinished/src/main/java/blog/controllers/HomeController.java",
+				"/home/aal/.cache/.fr-PEa6Sc/blog/src/main/java/com/aal/proglan/blog/BlogApplication.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/Reader.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/Comment.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/Post.java",
+				"/Data/Data/smt4/proglan/ainun-blog/createDB.sh",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/PersistentLogins.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/User.java",
+				"/var/www/html/tokoku/frontend/views/site/about.php",
+				"/var/www/html/tokoku/frontend/views/item/index.php",
+				"/var/www/html/tokoku/frontend/views/layouts/main.php",
+				"/var/www/html/tokoku/common/config/main-local.php",
+				"/var/www/html/tokoku/frontend/config/main.php",
+				"/var/www/html/kuliah/mymart-abid/common/config/main-local.php",
+				"/var/www/html/kuliah/mymart-abid/backend/web/.htaccess",
+				"/var/www/html/yii2-advanced-api/common/config/main-local.php",
+				"/var/www/html/themes/yii2-theme-eshopper-master/frontend/assets/AppAsset.php",
+				"/var/www/html/php/yii2-advanced-api-template-master/protected/frontend/assets/AppAsset.php",
+				"/var/www/html/pencitku/examples/fitting_baju.htm",
+				"/var/www/html/hhis/backend/views/site/index.php",
+				"/var/www/html/hhis/common/config/main.php",
+				"/var/www/html/php/app/common/config/main-local.php",
+				"/var/www/html/php/app/common/config/main.php",
+				"/var/www/html/php/basic/config/db.php",
+				"/home/aal/html/php/hhis/protected/frontend/assets/AppAsset.php",
+				"/var/www/html/hhis/backend/assets/AppAsset.php",
+				"/var/www/html/php/hhis/protected/backend/assets/AppAsset.php",
+				"/var/www/html/php/hhis/protected/backend/config/main.php",
+				"/var/www/html/hhis/common/models/Dokter.php",
+				"/var/www/html/hhis/common/models/ArtikelDokter.php",
+				"/var/www/html/kuliah/rosyid2/matkulDetail.php",
+				"/var/www/html/kuliah/rosyid2/matkul.php",
+				"/var/www/html/kuliah/rosyid2/source/home/header.php",
+				"/var/www/html/kuliah/rosyid2/source/home/content.php",
+				"/var/www/html/kuliah/rosyid2/testing.php",
+				"/var/www/html/kuliah/rosyid2/source/default.php",
+				"/var/www/html/kuliah/rosyid2/source/matkul-detail/sidebar.php",
+				"/var/www/html/kuliah/rosyid2/Readme.md",
+				"/home/aal/project1.sh",
+				"/var/www/html/kuliah/rosyid2/assets/css/main.css",
+				"/var/www/html/kuliah/rosyid2/index.php",
+				"/var/www/html/kuliah/rosyid2/assets/assets.php",
+				"/var/www/html/kuliah/rosyid2/slider.php",
+				"/var/www/html/kuliah/mymart/backend/config/main.php",
+				"/var/www/html/themes/yii2eshop-master/yii2eshop.sql",
+				"/var/www/html/kuliah/mymart/frontend/config/main.php",
+				"/Data/Data/smt4/AI/LOGIKA_FUZZY/Software/tipper.fcl",
+				"/var/www/html/php/download",
+				"/var/www/html/php/advanced/protected/frontend/views/site/login.php",
+				"/var/www/html/php/advanced/protected/frontend/views/site/index.php",
+				"/var/www/html/php/advanced/protected/frontend/controllers/SiteController.php",
+				"/var/www/html/php/advanced/protected/common/config/main.php",
+				"/var/www/html/php/yii2-simplechat-master/db/Conversation.php",
+				"/var/www/html/hhis/frontend/views/site/index.php",
+				"/var/www/html/php/advanced/protected/frontend/views/layouts/main.php",
+				"/var/www/html/hhis/frontend/assets/AppAsset.php",
+				"/var/www/html/php/advanced/protected/frontend/config/main.php",
+				"/var/www/html/php/advanced/protected/frontend/assets/AppAsset.php",
+				"/var/www/html/php/advanced/protected/frontend/controllers/ArticleController.php",
+				"/var/www/html/php/advanced/protected/frontend/views/article/_search.php",
+				"/var/www/html/php/advanced/protected/frontend/views/article/index.php",
+				"/var/www/html/php/advanced/protected/frontend/views/article/_form.php",
+				"/var/www/html/php/advanced/protected/api/modules/v1/controllers/UserController.php",
+				"/var/www/html/php/advanced/protected/api/modules/v1/models/User.php",
+				"/var/www/html/php/advanced/protected/api/config/main.php",
+				"/var/www/html/php/advanced/protected/frontend/models/Article.php",
+				"/var/www/html/php/advanced/composer.json",
+				"/var/www/html/php/advanced/protected/backend/config/main.php",
+				"/var/www/html/php/advanced/protected/backend/views/layouts/main.php",
+				"/home/aal/hhis (1).sql",
+				"/var/www/html/php/advanced/themes/yii2-app/css/site.css",
+				"/var/www/html/php/advanced/protected/api/modules/v1/controllers/CountryController.php",
+				"/home/aal/hhis.sql",
+				"/var/www/html/php/advanced/protected/api/modules/v1/controllers/SimpleController.php",
+				"/var/www/html/php/advanced/protected/api/controllers/SimpleController.php",
+				"/var/www/html/php/advanced/protected/api/controllers/SiteController.php",
+				"/var/www/html/php/advanced/protected/common/config/main-local.php",
+				"/var/www/html/hhis/api/controllers/ArtikelController.php",
+				"/var/www/html/hhis/common/config/bootstrap.php",
+				"/var/www/html/hhis/api/config/main.php",
+				"/var/www/html/hhis/api/controllers/NoIzinDokterController.php",
+				"/var/www/html/despa-creational/builder.php",
+				"/var/www/html/despa-creational/prototype.php",
+				"/var/www/html/despa-creational/abstract-factory.php",
+				"/var/www/html/despa-creational/factory.php",
+				"/var/www/html/despa-creational/singleton.php",
+				"/Data/Data/smt4/wpl/despa-creational/singleton.php",
+				"/home/aal/Downloads/login.html",
+				"/var/www/html/themes/hotspot aal/login.html",
+				"/var/www/html/themes/hotspot/login.html",
+				"/var/www/html/themes/flat-login-form-3-0/index.html",
+				"/var/www/html/pencitku/examples/example_sunglasses.htm",
+				"/home/aal/go/src/main.go",
+				"/var/www/html/kuliah/mymart/backend/controllers/ItemController.php",
+				"/var/www/html/kuliah/mymart/common/models/Item/Item.php",
+				"/var/www/html/kuliah/mymart/backend/views/item/_form.php",
+				"/var/www/html/kuliah/mymart/backend/views/item/index.php",
+				"/var/www/html/kuliah/mymart/backend/views/item/view.php",
+				"/home/aal/NetBeansProjects/java/ProgLan/bank jpa/src/META-INF/persistence.xml",
+				"/Data/Data/Node.js/rest-crud-master/t_user.sql",
+				"/Data/Data/Node.js/rest-crud-master/server.js",
+				"/home/aal/.zshrc",
+				"/home/aal/NetBeansProjects/java/ProgLan/ProgLanjutDesktop_JPA/src/META-INF/persistence.xml",
+				"/var/www/html/kuliah/mymart/frontend/views/customer/view.php",
+				"/var/www/html/kuliah/mymart/frontend/views/customer/showorder.php",
+				"/var/www/html/kuliah/mymart/frontend/views/layouts/main.php",
+				"/var/www/html/kuliah/mymart/frontend/controllers/CustomerController.php",
+				"/var/www/html/kuliah/mymart/frontend/views/customer/_form.php"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"profil",
+					"hiberna",
+					"p {",
+					"p",
+					"about",
+					"login",
+					"<=",
+					"frontend\\models\\User",
+					"front",
+					"fron",
+					"models",
+					"countries",
+					"no_izin_dokter",
+					"no_izin",
+					"coun",
+					"the",
+					"clas",
+					"file",
+					"file1",
+					"Canno",
+					"Can",
+					"ftp",
+					"<a",
+					"sudo ",
+					"radius",
+					"menu",
+					"window",
+					"shadow",
+					"menu",
+					"panel",
+					"transparent",
+					"panel transparent",
+					"paneltransparent",
+					"transparent",
+					":transpa",
+					".panel",
+					".panel ",
+					".pane",
+					"canno",
+					"transparent",
+					"active",
+					"panel-bottom-active",
+					"active",
+					".pane",
+					"canno",
+					"http://myproxy.server.com:8080",
+					"0",
+					"4",
+					"9",
+					"8",
+					"7",
+					"6",
+					"5",
+					"3",
+					"2",
+					"1",
+					"personal/",
+					"project",
+					"sass",
+					"fonts",
+					"images/",
+					"css/",
+					"js/",
+					"2:46",
+					"Al A'raf",
+					"main",
+					"lay",
+					"layou",
+					"main",
+					"header",
+					"user",
+					"crea",
+					"title",
+					"my",
+					"my yii",
+					"home",
+					"defaul",
+					"contro",
+					"defaul",
+					"defa",
+					"components",
+					"componen",
+					"enablePretty",
+					"prett",
+					"valid",
+					"token",
+					"passwor",
+					"bootstrap",
+					"acac",
+					"adminl",
+					"acac",
+					"adminlte",
+					"dist/img/",
+					"AdminLTE/dist/img/",
+					"AdminLTEdist/img/",
+					"dist/img/",
+					"dist/img",
+					".jpg",
+					"dist/img",
+					"dist",
+					"plugins",
+					".js\"",
+					"min.js\"",
+					".css\"",
+					"dist/css"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"common\\models\\User",
+					"",
+					"http://10.252.108.8:3128",
+					"",
+					"personal/images/",
+					"personal/css/",
+					"personal/js/",
+					"0:0",
+					"Unknown",
+					"AdminLTE/dist/img/",
+					"dist/img/",
+					"AdminLTE/dist/img/",
+					".jpg ') }}",
+					"{{ asset('dist/img",
+					"{{ asset('AdminLTE/plugins",
+					"AdminLTE/plugins",
+					"AdminLTE/plugins/",
+					".js') }}\"",
+					"min.js') }}\"",
+					".css') }}\"",
+					"{{ asset('dist/css"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 473.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"view.php",
+						"vendor/yiisoft/yii2/base/View.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"basehtml",
+						"vendor/yiisoft/yii2/helpers/BaseHtml.php"
+					],
+					[
+						"header.php",
+						"vendor/dmstr/yii2-adminlte-asset/example-views/yiisoft/yii2-app/layouts/header.php"
+					],
+					[
+						"main.php",
+						"mymart/backend/config/main.php"
+					],
+					[
+						"yii.php",
+						"mymart/vendor/yiisoft/yii2/Yii.php"
+					],
+					[
+						"site.css",
+						"yiibasic/web/css/site.css"
+					],
+					[
+						"appass",
+						"yiibasic/assets/AppAsset.php"
+					],
+					[
+						"appa",
+						"mymart/backend/assets/AppAsset.php"
+					],
+					[
+						"web.php",
+						"yiibasic/config/web.php"
+					],
+					[
+						"urlm",
+						"vendor/yiisoft/yii2/web/UrlManager.php"
+					],
+					[
+						".hta",
+						"backend/.htaccess"
+					],
+					[
+						"mig",
+						"vendor/yiisoft/yii2/db/Migration.php"
+					],
+					[
+						"",
+						"IPFinder.java"
+					],
+					[
+						"web.",
+						"config/web.php"
+					],
+					[
+						"web/reque",
+						"vendor/yiisoft/yii2/web/Request.php"
+					],
+					[
+						"db.php",
+						"config/db.php"
+					],
+					[
+						"db",
+						"vendor/phpdocumentor/reflection-docblock/src/DocBlock.php"
+					],
+					[
+						"connec",
+						"vendor/yiisoft/yii2/db/Connection.php"
+					],
+					[
+						"setting",
+						"vendor/ezyang/htmlpurifier/plugins/phorum/settings.php"
+					],
+					[
+						"site",
+						"controllers/SiteController.php"
+					],
+					[
+						"secont",
+						"controllers/SiteController.php"
+					],
+					[
+						"web",
+						"routes/web.php"
+					],
+					[
+						"menu.",
+						"config/menu.php"
+					],
+					[
+						"about.",
+						"resources/views/about.blade.php"
+					],
+					[
+						"config/",
+						"config/app.php"
+					],
+					[
+						"aca",
+						"vendor/acacha/admin-lte-template-laravel/tests/AcachaAdminLTELaravelTest.php"
+					],
+					[
+						"config/app",
+						"config/app.php"
+					],
+					[
+						"dashbo",
+						"resources/views/dashboard.blade.php"
+					],
+					[
+						"web.ph",
+						"routes/web.php"
+					],
+					[
+						"home",
+						"resources/views/blog/home.blade.php"
+					],
+					[
+						"master",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"singl",
+						"resources/views/blog/single.blade.php"
+					],
+					[
+						"blog",
+						"database/migrations/2017_02_09_064643_blog.php"
+					],
+					[
+						"blogcon",
+						"app/Http/Controllers/BlogController.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"home.",
+						"resources/views/blog/home.blade.php"
+					],
+					[
+						"welcome.",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"create_items_table",
+						"database/migrations/2017_02_09_005634_create_items_table.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 292.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"s",
+						"socket.io"
+					],
+					[
+						"ex",
+						"express"
+					],
+					[
+						"aa",
+						"aan.org"
+					],
+					[
+						"mailser",
+						"MailServer-1"
+					],
+					[
+						"he",
+						"height"
+					],
+					[
+						"yii",
+						"yii2-app"
+					],
+					[
+						"met",
+						"method\tAttr"
+					],
+					[
+						"user",
+						"user_id"
+					],
+					[
+						"que",
+						"Query"
+					],
+					[
+						"cons",
+						"console.log();"
+					],
+					[
+						"bind",
+						"bindconf"
+					],
+					[
+						"User",
+						"username"
+					],
+					[
+						"ac",
+						"action\tAttr"
+					],
+					[
+						"for",
+						"for\tfor (…) {…}"
+					],
+					[
+						"path",
+						"path_info\t(Statistic.php)"
+					],
+					[
+						"mo",
+						"models"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"stat",
+						"statistic\t(Statistic.php)"
+					],
+					[
+						"drop",
+						"dropDownList\t(BaseHtml.php)"
+					],
+					[
+						"var",
+						"var_dump"
+					],
+					[
+						"Item",
+						"ItemCategory\t(Item.php)"
+					],
+					[
+						"name",
+						"namespace"
+					],
+					[
+						"Rou",
+						"Route::get\tBasic Get Route."
+					],
+					[
+						"titl",
+						"title"
+					],
+					[
+						"pro",
+						"protected"
+					],
+					[
+						"Schema",
+						"Schema::drop\tDrop an existing database table"
+					],
+					[
+						"DB",
+						"DB::update\tRun an update statement against the database."
+					],
+					[
+						"a",
+						"a\t<a>"
+					],
+					[
+						"Rout",
+						"Route::get\tBasic Get Route."
+					],
+					[
+						"Sche",
+						"Schema::drop\tDrop an existing database table"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "var express = require('express');\nvar path = require('path');\nvar favicon = require('serve-favicon');\nvar logger = require('morgan');\nvar cookieParser = require('cookie-parser');\nvar bodyParser = require('body-parser');\n\n// mendifinisikan file yang akan di proses dengan express\nvar index = require('./routes/index');\nvar users = require('./routes/users');\nvar student = require('./routes/student');\n\nvar app = express(); //load express module\n\n// view engine setup\napp.set('views', path.join(__dirname, 'views'));\napp.set('view engine', 'jade');\n\n// uncomment after placing your favicon in /public\n//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));\napp.use(logger('dev'));\napp.use(bodyParser.json());\napp.use(bodyParser.urlencoded({ extended: false }));\napp.use(cookieParser());\napp.use(express.static(path.join(__dirname, 'public')));\n\n//set url routes with router variabel\napp.use('/', index);\napp.use('/users', users);\napp.use('/student', student);\n\n// catch 404 and forward to error handler\napp.use(function(req, res, next) {\n  var err = new Error('Not Found');\n  err.status = 404;\n  next(err);\n});\n\n// error handler\napp.use(function(err, req, res, next) {\n  // set locals, only providing error in development\n  res.locals.message = err.message;\n  res.locals.error = req.app.get('env') === 'development' ? err : {};\n\n  // render the error page\n  res.status(err.status || 500);\n  res.render('error');\n});\n\nmodule.exports = app;\n",
+					"file": "/Data/Data/Node.js/indobarkom.com/app.js",
+					"file_size": 1449,
+					"file_write_time": 131457252808002146,
+					"settings":
+					{
+						"buffer_size": 1448,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "var express = require('express');\nvar router = express.Router();\n\n/* GET users listing. */\nrouter.get('/', function(req, res, next) {\n  res.send('respond with a resource');\n});\n\nmodule.exports = router;\n",
+					"file": "/Data/Data/Node.js/indobarkom.com/routes/users.js",
+					"file_size": 203,
+					"file_write_time": 131457252807162298,
+					"settings":
+					{
+						"buffer_size": 203,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Data/Data/Node.js/indobarkom.com/package.json",
+					"settings":
+					{
+						"buffer_size": 417,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Java/Ant.sublime-build",
+							""
+						],
+						[
+							"Packages/Java/JavaC.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/Java/JavaC.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "add",
+				"selected_items":
+				[
+					[
+						"add",
+						"Project: Add Folder"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"ta",
+						"Material Theme: Activate theme"
+					],
+					[
+						"set bas",
+						"Set Syntax: Shell Script (Bash)"
+					],
+					[
+						"ad",
+						"Project: Add Folder"
+					],
+					[
+						"php",
+						"Set Syntax: PHP"
+					],
+					[
+						"set html",
+						"Set Syntax: HTML"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"AD",
+						"Project: Add Folder"
+					],
+					[
+						"a",
+						"Project: Add Folder"
+					],
+					[
+						"set ht",
+						"Set Syntax: HTML (Tcl)"
+					],
+					[
+						"set php",
+						"Set Syntax: PHP"
+					],
+					[
+						"set p",
+						"Set Syntax: PHP"
+					],
+					[
+						"adde",
+						"Project: Add Folder"
+					],
+					[
+						"html",
+						"Set Syntax: HTML"
+					],
+					[
+						"Laravel ",
+						"Laravel Artisan 5: Route:Clear"
+					],
+					[
+						"the",
+						"Material Theme: Activate theme"
+					],
+					[
+						"them",
+						"Material Theme: Activate theme"
+					],
+					[
+						"theme",
+						"Material Theme: Configuration"
+					],
+					[
+						"install ",
+						"Package Control: Install Package"
+					],
+					[
+						"menu",
+						"View: Toggle Menu"
+					],
+					[
+						"termina",
+						"Preferences: Terminality Settings – Default"
+					],
+					[
+						"termin",
+						"Preferences: Terminality Settings – User"
+					],
+					[
+						"mat",
+						"Material Theme: Configuration"
+					]
+				],
+				"width": 521.0
+			},
+			"console":
+			{
+				"height": 170.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Data/Data/Node.js/indobarkom.com",
+				"/Data/Data/Node.js/indobarkom.com/bin",
+				"/Data/Data/Node.js/indobarkom.com/routes"
+			],
+			"file_history":
+			[
+				"/Data/Data/Node.js/indobarkom.com/package.json",
+				"/Data/Data/Node.js/indobarkom.com/index.js",
+				"/Data/Data/Node.js/websockets-playlist/public/styles.css",
+				"/Data/Data/Node.js/websockets-playlist/index.js",
+				"/Data/Data/Node.js/websockets/package.json",
+				"/Data/Data/Node.js/websockets/index.js",
+				"/var/www/html/kuliah/form_nikah/index.html",
+				"/home/aal/info.php",
+				"/var/www/html/kuliah/form_nikah/assets/css/style.css",
+				"/var/www/html/kuliah/form_nikah/assets/js/script.js",
+				"/var/www/html/kuliah/form nikah/database.sql",
+				"/var/www/html/kuliah/form nikah/config.php",
+				"/Data/Data/Node.js/CRUD/server/routes/users.js",
+				"/Data/Data/Node.js/CRUD/server/routes/todo.js",
+				"/home/aal/tmp/testing.php",
+				"/home/aal/nafis.conf",
+				"/Data/Data/smt4/netadmin/project2.sh",
+				"/Data/Data/java/Spring/Spring-MVC-Blog-unfinished/pom.xml",
+				"/Data/Data/java/Spring/db/Sample-data-users-posts.sql",
+				"/Data/Data/java/Spring/SpringBootCRUDApplicationExample/pom.xml",
+				"/Data/Data/java/Spring/Spring-MVC-Blog-unfinished/src/main/java/blog/controllers/HomeController.java",
+				"/home/aal/.cache/.fr-PEa6Sc/blog/src/main/java/com/aal/proglan/blog/BlogApplication.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/Reader.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/Comment.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/Post.java",
+				"/Data/Data/smt4/proglan/ainun-blog/createDB.sh",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/PersistentLogins.java",
+				"/Data/Data/smt4/proglan/ainun-blog/src/main/java/ru/mrchebik/model/User.java",
+				"/var/www/html/tokoku/frontend/views/site/about.php",
+				"/var/www/html/tokoku/frontend/views/item/index.php",
+				"/var/www/html/tokoku/frontend/views/layouts/main.php",
+				"/var/www/html/tokoku/common/config/main-local.php",
+				"/var/www/html/tokoku/frontend/config/main.php",
+				"/var/www/html/kuliah/mymart-abid/common/config/main-local.php",
+				"/var/www/html/kuliah/mymart-abid/backend/web/.htaccess",
+				"/var/www/html/yii2-advanced-api/common/config/main-local.php",
+				"/var/www/html/themes/yii2-theme-eshopper-master/frontend/assets/AppAsset.php",
+				"/var/www/html/php/yii2-advanced-api-template-master/protected/frontend/assets/AppAsset.php",
+				"/var/www/html/pencitku/examples/fitting_baju.htm",
+				"/var/www/html/hhis/backend/views/site/index.php",
+				"/var/www/html/hhis/common/config/main.php",
+				"/var/www/html/php/app/common/config/main-local.php",
+				"/var/www/html/php/app/common/config/main.php",
+				"/var/www/html/php/basic/config/db.php",
+				"/home/aal/html/php/hhis/protected/frontend/assets/AppAsset.php",
+				"/var/www/html/hhis/backend/assets/AppAsset.php",
+				"/var/www/html/php/hhis/protected/backend/assets/AppAsset.php",
+				"/var/www/html/php/hhis/protected/backend/config/main.php",
+				"/var/www/html/hhis/common/models/Dokter.php",
+				"/var/www/html/hhis/common/models/ArtikelDokter.php",
+				"/var/www/html/kuliah/rosyid2/matkulDetail.php",
+				"/var/www/html/kuliah/rosyid2/matkul.php",
+				"/var/www/html/kuliah/rosyid2/source/home/header.php",
+				"/var/www/html/kuliah/rosyid2/source/home/content.php",
+				"/var/www/html/kuliah/rosyid2/testing.php",
+				"/var/www/html/kuliah/rosyid2/source/default.php",
+				"/var/www/html/kuliah/rosyid2/source/matkul-detail/sidebar.php",
+				"/var/www/html/kuliah/rosyid2/Readme.md",
+				"/home/aal/project1.sh",
+				"/var/www/html/kuliah/rosyid2/assets/css/main.css",
+				"/var/www/html/kuliah/rosyid2/index.php",
+				"/var/www/html/kuliah/rosyid2/assets/assets.php",
+				"/var/www/html/kuliah/rosyid2/slider.php",
+				"/var/www/html/kuliah/mymart/backend/config/main.php",
+				"/var/www/html/themes/yii2eshop-master/yii2eshop.sql",
+				"/var/www/html/kuliah/mymart/frontend/config/main.php",
+				"/Data/Data/smt4/AI/LOGIKA_FUZZY/Software/tipper.fcl",
+				"/var/www/html/php/download",
+				"/var/www/html/php/advanced/protected/frontend/views/site/login.php",
+				"/var/www/html/php/advanced/protected/frontend/views/site/index.php",
+				"/var/www/html/php/advanced/protected/frontend/controllers/SiteController.php",
+				"/var/www/html/php/advanced/protected/common/config/main.php",
+				"/var/www/html/php/yii2-simplechat-master/db/Conversation.php",
+				"/var/www/html/hhis/frontend/views/site/index.php",
+				"/var/www/html/php/advanced/protected/frontend/views/layouts/main.php",
+				"/var/www/html/hhis/frontend/assets/AppAsset.php",
+				"/var/www/html/php/advanced/protected/frontend/config/main.php",
+				"/var/www/html/php/advanced/protected/frontend/assets/AppAsset.php",
+				"/var/www/html/php/advanced/protected/frontend/controllers/ArticleController.php",
+				"/var/www/html/php/advanced/protected/frontend/views/article/_search.php",
+				"/var/www/html/php/advanced/protected/frontend/views/article/index.php",
+				"/var/www/html/php/advanced/protected/frontend/views/article/_form.php",
+				"/var/www/html/php/advanced/protected/api/modules/v1/controllers/UserController.php",
+				"/var/www/html/php/advanced/protected/api/modules/v1/models/User.php",
+				"/var/www/html/php/advanced/protected/api/config/main.php",
+				"/var/www/html/php/advanced/protected/frontend/models/Article.php",
+				"/var/www/html/php/advanced/composer.json",
+				"/var/www/html/php/advanced/protected/backend/config/main.php",
+				"/var/www/html/php/advanced/protected/backend/views/layouts/main.php",
+				"/home/aal/hhis (1).sql",
+				"/var/www/html/php/advanced/themes/yii2-app/css/site.css",
+				"/var/www/html/php/advanced/protected/api/modules/v1/controllers/CountryController.php",
+				"/home/aal/hhis.sql",
+				"/var/www/html/php/advanced/protected/api/modules/v1/controllers/SimpleController.php",
+				"/var/www/html/php/advanced/protected/api/controllers/SimpleController.php",
+				"/var/www/html/php/advanced/protected/api/controllers/SiteController.php",
+				"/var/www/html/php/advanced/protected/common/config/main-local.php",
+				"/var/www/html/hhis/api/controllers/ArtikelController.php",
+				"/var/www/html/hhis/common/config/bootstrap.php",
+				"/var/www/html/hhis/api/config/main.php",
+				"/var/www/html/hhis/api/controllers/NoIzinDokterController.php",
+				"/var/www/html/despa-creational/builder.php",
+				"/var/www/html/despa-creational/prototype.php",
+				"/var/www/html/despa-creational/abstract-factory.php",
+				"/var/www/html/despa-creational/factory.php",
+				"/var/www/html/despa-creational/singleton.php",
+				"/Data/Data/smt4/wpl/despa-creational/singleton.php",
+				"/home/aal/Downloads/login.html",
+				"/var/www/html/themes/hotspot aal/login.html",
+				"/var/www/html/themes/hotspot/login.html",
+				"/var/www/html/themes/flat-login-form-3-0/index.html",
+				"/var/www/html/pencitku/examples/example_sunglasses.htm",
+				"/home/aal/go/src/main.go",
+				"/var/www/html/kuliah/mymart/backend/controllers/ItemController.php",
+				"/var/www/html/kuliah/mymart/common/models/Item/Item.php",
+				"/var/www/html/kuliah/mymart/backend/views/item/_form.php",
+				"/var/www/html/kuliah/mymart/backend/views/item/index.php",
+				"/var/www/html/kuliah/mymart/backend/views/item/view.php",
+				"/home/aal/NetBeansProjects/java/ProgLan/bank jpa/src/META-INF/persistence.xml",
+				"/Data/Data/Node.js/rest-crud-master/t_user.sql",
+				"/Data/Data/Node.js/rest-crud-master/server.js",
+				"/home/aal/.zshrc",
+				"/home/aal/NetBeansProjects/java/ProgLan/ProgLanjutDesktop_JPA/src/META-INF/persistence.xml",
+				"/var/www/html/kuliah/mymart/frontend/views/customer/view.php",
+				"/var/www/html/kuliah/mymart/frontend/views/customer/showorder.php",
+				"/var/www/html/kuliah/mymart/frontend/views/layouts/main.php",
+				"/var/www/html/kuliah/mymart/frontend/controllers/CustomerController.php",
+				"/var/www/html/kuliah/mymart/frontend/views/customer/_form.php"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"profil",
+					"hiberna",
+					"p {",
+					"p",
+					"about",
+					"login",
+					"<=",
+					"frontend\\models\\User",
+					"front",
+					"fron",
+					"models",
+					"countries",
+					"no_izin_dokter",
+					"no_izin",
+					"coun",
+					"the",
+					"clas",
+					"file",
+					"file1",
+					"Canno",
+					"Can",
+					"ftp",
+					"<a",
+					"sudo ",
+					"radius",
+					"menu",
+					"window",
+					"shadow",
+					"menu",
+					"panel",
+					"transparent",
+					"panel transparent",
+					"paneltransparent",
+					"transparent",
+					":transpa",
+					".panel",
+					".panel ",
+					".pane",
+					"canno",
+					"transparent",
+					"active",
+					"panel-bottom-active",
+					"active",
+					".pane",
+					"canno",
+					"http://myproxy.server.com:8080",
+					"0",
+					"4",
+					"9",
+					"8",
+					"7",
+					"6",
+					"5",
+					"3",
+					"2",
+					"1",
+					"personal/",
+					"project",
+					"sass",
+					"fonts",
+					"images/",
+					"css/",
+					"js/",
+					"2:46",
+					"Al A'raf",
+					"main",
+					"lay",
+					"layou",
+					"main",
+					"header",
+					"user",
+					"crea",
+					"title",
+					"my",
+					"my yii",
+					"home",
+					"defaul",
+					"contro",
+					"defaul",
+					"defa",
+					"components",
+					"componen",
+					"enablePretty",
+					"prett",
+					"valid",
+					"token",
+					"passwor",
+					"bootstrap",
+					"acac",
+					"adminl",
+					"acac",
+					"adminlte",
+					"dist/img/",
+					"AdminLTE/dist/img/",
+					"AdminLTEdist/img/",
+					"dist/img/",
+					"dist/img",
+					".jpg",
+					"dist/img",
+					"dist",
+					"plugins",
+					".js\"",
+					"min.js\"",
+					".css\"",
+					"dist/css"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"common\\models\\User",
+					"",
+					"http://10.252.108.8:3128",
+					"",
+					"personal/images/",
+					"personal/css/",
+					"personal/js/",
+					"0:0",
+					"Unknown",
+					"AdminLTE/dist/img/",
+					"dist/img/",
+					"AdminLTE/dist/img/",
+					".jpg ') }}",
+					"{{ asset('dist/img",
+					"{{ asset('AdminLTE/plugins",
+					"AdminLTE/plugins",
+					"AdminLTE/plugins/",
+					".js') }}\"",
+					"min.js') }}\"",
+					".css') }}\"",
+					"{{ asset('dist/css"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Data/Data/Node.js/indobarkom.com"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Data/Data/Node.js/indobarkom.com/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1448,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1407,
+										1407
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1421,
+												1422
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1176,
+												1177
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"git_gutter_is_enabled": true,
+									"highlight_line": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 10
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 826.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Data/Data/Node.js/indobarkom.com/routes/users.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 203,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										82,
+										82
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 16
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Data/Data/Node.js/indobarkom.com/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 417,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										142,
+										142
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												360,
+												361
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"brackethighlighter.default"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												142,
+												143
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content"
+									],
+									"ex_data":
+									{
+										"next_sel":
+										[
+											[
+												329,
+												329
+											]
+										]
+									},
+									"git_gutter_is_enabled": true,
+									"highlight_line": false,
+									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true,
+									"vintage":
+									{
+										"_vintageous_glue_until_normal_mode": false,
+										"_vintageous_non_interactive": false,
+										"_vintageous_processing_notation": false,
+										"action": null,
+										"action_count": "",
+										"mode": "mode_normal",
+										"motion": null,
+										"motion_count": "",
+										"must_capture_register_name": false,
+										"normal_insert_count": "1",
+										"partial_sequence": "",
+										"register": "\"",
+										"sequence": "",
+										"xpos": 18
+									}
+								},
+								"translation.x": 0.0,
+								"translation.y": 63.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 63.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 473.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"view.php",
+						"vendor/yiisoft/yii2/base/View.php"
+					],
+					[
+						"composer",
+						"composer.json"
+					],
+					[
+						"basehtml",
+						"vendor/yiisoft/yii2/helpers/BaseHtml.php"
+					],
+					[
+						"header.php",
+						"vendor/dmstr/yii2-adminlte-asset/example-views/yiisoft/yii2-app/layouts/header.php"
+					],
+					[
+						"main.php",
+						"mymart/backend/config/main.php"
+					],
+					[
+						"yii.php",
+						"mymart/vendor/yiisoft/yii2/Yii.php"
+					],
+					[
+						"site.css",
+						"yiibasic/web/css/site.css"
+					],
+					[
+						"appass",
+						"yiibasic/assets/AppAsset.php"
+					],
+					[
+						"appa",
+						"mymart/backend/assets/AppAsset.php"
+					],
+					[
+						"web.php",
+						"yiibasic/config/web.php"
+					],
+					[
+						"urlm",
+						"vendor/yiisoft/yii2/web/UrlManager.php"
+					],
+					[
+						".hta",
+						"backend/.htaccess"
+					],
+					[
+						"mig",
+						"vendor/yiisoft/yii2/db/Migration.php"
+					],
+					[
+						"",
+						"IPFinder.java"
+					],
+					[
+						"web.",
+						"config/web.php"
+					],
+					[
+						"web/reque",
+						"vendor/yiisoft/yii2/web/Request.php"
+					],
+					[
+						"db.php",
+						"config/db.php"
+					],
+					[
+						"db",
+						"vendor/phpdocumentor/reflection-docblock/src/DocBlock.php"
+					],
+					[
+						"connec",
+						"vendor/yiisoft/yii2/db/Connection.php"
+					],
+					[
+						"setting",
+						"vendor/ezyang/htmlpurifier/plugins/phorum/settings.php"
+					],
+					[
+						"site",
+						"controllers/SiteController.php"
+					],
+					[
+						"secont",
+						"controllers/SiteController.php"
+					],
+					[
+						"web",
+						"routes/web.php"
+					],
+					[
+						"menu.",
+						"config/menu.php"
+					],
+					[
+						"about.",
+						"resources/views/about.blade.php"
+					],
+					[
+						"config/",
+						"config/app.php"
+					],
+					[
+						"aca",
+						"vendor/acacha/admin-lte-template-laravel/tests/AcachaAdminLTELaravelTest.php"
+					],
+					[
+						"config/app",
+						"config/app.php"
+					],
+					[
+						"dashbo",
+						"resources/views/dashboard.blade.php"
+					],
+					[
+						"web.ph",
+						"routes/web.php"
+					],
+					[
+						"home",
+						"resources/views/blog/home.blade.php"
+					],
+					[
+						"master",
+						"resources/views/layouts/master.blade.php"
+					],
+					[
+						"singl",
+						"resources/views/blog/single.blade.php"
+					],
+					[
+						"blog",
+						"database/migrations/2017_02_09_064643_blog.php"
+					],
+					[
+						"blogcon",
+						"app/Http/Controllers/BlogController.php"
+					],
+					[
+						".env",
+						".env"
+					],
+					[
+						"home.",
+						"resources/views/blog/home.blade.php"
+					],
+					[
+						"welcome.",
+						"resources/views/welcome.blade.php"
+					],
+					[
+						"create_items_table",
+						"database/migrations/2017_02_09_005634_create_items_table.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"_vintageous_reset_during_init": true,
+				"vintage":
+				{
+					"_cmdline_cd": "/Data/Data/Node.js/indobarkom.com"
+				}
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 292.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 58,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
