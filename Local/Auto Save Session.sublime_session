@@ -1,6 +1,12 @@
 {
 	"folder_history":
 	[
+		"/Data/Data/Programming/angularjs",
+		"/Data/Data/Programming/react/react-redux",
+		"/Data/Data/Programming/Node.js/blog",
+		"/Data/Data/Programming/react",
+		"/Data/Data/Programming/javascript",
+		"/Data/Data/Node.js/testing",
 		"/Data/Data/Node.js/indobarkom.com",
 		"/Data/Data/Node.js/websockets-playlist",
 		"/Data/Data/Node.js/websocket",
@@ -77,7 +83,7 @@
 		"/var/www/html/crud"
 	],
 	"last_version": 3126,
-	"last_window_id": 62,
+	"last_window_id": 79,
 	"log_indexing": false,
 	"settings":
 	{
@@ -88,6 +94,66 @@
 			{
 				"selected_items":
 				[
+					[
+						"la",
+						"lastName"
+					],
+					[
+						"fi",
+						"firstName"
+					],
+					[
+						"qu",
+						"quantity"
+					],
+					[
+						"my",
+						"myCol"
+					],
+					[
+						"ng-m",
+						"ng-model\tAngularJS"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"sty",
+						"style\tAttr"
+					],
+					[
+						"ng-ini",
+						"ng-init\tAngularJS"
+					],
+					[
+						"ng",
+						"ng-app\tAngularJS"
+					],
+					[
+						"fir",
+						"firstName='John"
+					],
+					[
+						"ng-bin",
+						"ng-bind\tAngularJS"
+					],
+					[
+						"ng-",
+						"ng-model"
+					],
+					[
+						"expre",
+						"express.static"
+					],
+					[
+						"os",
+						"os.getNetworkInterfaces();"
+					],
+					[
+						"uptime",
+						"os.uptime();"
+					],
 					[
 						"s",
 						"socket.io"
@@ -232,10 +298,62 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "add",
+				"height": 392.0,
+				"last_filter": "mater",
 				"selected_items":
 				[
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"matr",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ad",
+						"Project: Add Folder"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"cobal",
+						"Package Control: Enable Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"side ba",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
 					[
 						"add",
 						"Project: Add Folder"
@@ -245,16 +363,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"side",
-						"View: Toggle Open Files in Side Bar"
 					],
 					[
 						"ta",
@@ -263,10 +373,6 @@
 					[
 						"set bas",
 						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"ad",
-						"Project: Add Folder"
 					],
 					[
 						"php",
@@ -278,10 +384,6 @@
 					],
 					[
 						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -349,7 +451,7 @@
 						"Material Theme: Configuration"
 					]
 				],
-				"width": 521.0
+				"width": 530.0
 			},
 			"console":
 			{
@@ -369,7 +471,35 @@
 			},
 			"file_history":
 			[
+				"/Data/Data/Programming/angularjs/model/1.html",
+				"/Data/Data/Programming/angularjs/directive/1.html",
+				"/Data/Data/Programming/angularjs/directive/3.repeat-in-html.html",
+				"/Data/Data/Programming/angularjs/directive/4.ng-repeat-object.html",
+				"/Data/Data/Programming/angularjs/directive/2.data-binding.html",
+				"/Data/Data/Programming/angularjs/modules/2.adding a directive.html",
+				"/Data/Data/Programming/angularjs/modules/js/myCtrl.js",
+				"/Data/Data/Programming/angularjs/modules/3.module and controllers in a file.html",
+				"/Data/Data/Programming/angularjs/modules/1.creating module.html",
+				"/Data/Data/Programming/angularjs/modules/js/myApp.js",
+				"/Data/Data/Programming/angularjs/expression/5.angular-object.html",
+				"/Data/Data/Programming/angularjs/expression/6.angular-arrays.html",
+				"/Data/Data/Programming/angularjs/intro/ng-init.html",
+				"/Data/Data/Programming/angularjs/expression/1.html",
+				"/Data/Data/Programming/angularjs/expression/2.html",
+				"/Data/Data/Programming/angularjs/expression/3.angular-number.html",
+				"/Data/Data/Programming/angularjs/expression/4.angular-string.html",
+				"/Data/Data/Programming/angularjs/intro/1.html",
+				"/Data/Data/Programming/angularjs/intro.html",
+				"/Data/Data/Programming/Node.js/blog/routes/users.js",
+				"/Data/Data/Programming/Node.js/blog/views/index.pug",
+				"/Data/Data/Programming/react/index.html",
+				"/Data/Data/Programming/javascript/intro.html",
+				"/Data/Data/Node.js/testing/demo_os.js",
+				"/Data/Data/Node.js/testing/package.json",
+				"/Data/Data/Node.js/testing/node_modules/os/README.md",
 				"/Data/Data/Node.js/indobarkom.com/package.json",
+				"/Data/Data/Node.js/indobarkom.com/routes/users.js",
+				"/Data/Data/Node.js/indobarkom.com/app.js",
 				"/Data/Data/Node.js/indobarkom.com/index.js",
 				"/Data/Data/Node.js/websockets-playlist/public/styles.css",
 				"/Data/Data/Node.js/websockets-playlist/index.js",
@@ -468,39 +598,11 @@
 				"/var/www/html/php/advanced/protected/common/config/main-local.php",
 				"/var/www/html/hhis/api/controllers/ArtikelController.php",
 				"/var/www/html/hhis/common/config/bootstrap.php",
-				"/var/www/html/hhis/api/config/main.php",
-				"/var/www/html/hhis/api/controllers/NoIzinDokterController.php",
-				"/var/www/html/despa-creational/builder.php",
-				"/var/www/html/despa-creational/prototype.php",
-				"/var/www/html/despa-creational/abstract-factory.php",
-				"/var/www/html/despa-creational/factory.php",
-				"/var/www/html/despa-creational/singleton.php",
-				"/Data/Data/smt4/wpl/despa-creational/singleton.php",
-				"/home/aal/Downloads/login.html",
-				"/var/www/html/themes/hotspot aal/login.html",
-				"/var/www/html/themes/hotspot/login.html",
-				"/var/www/html/themes/flat-login-form-3-0/index.html",
-				"/var/www/html/pencitku/examples/example_sunglasses.htm",
-				"/home/aal/go/src/main.go",
-				"/var/www/html/kuliah/mymart/backend/controllers/ItemController.php",
-				"/var/www/html/kuliah/mymart/common/models/Item/Item.php",
-				"/var/www/html/kuliah/mymart/backend/views/item/_form.php",
-				"/var/www/html/kuliah/mymart/backend/views/item/index.php",
-				"/var/www/html/kuliah/mymart/backend/views/item/view.php",
-				"/home/aal/NetBeansProjects/java/ProgLan/bank jpa/src/META-INF/persistence.xml",
-				"/Data/Data/Node.js/rest-crud-master/t_user.sql",
-				"/Data/Data/Node.js/rest-crud-master/server.js",
-				"/home/aal/.zshrc",
-				"/home/aal/NetBeansProjects/java/ProgLan/ProgLanjutDesktop_JPA/src/META-INF/persistence.xml",
-				"/var/www/html/kuliah/mymart/frontend/views/customer/view.php",
-				"/var/www/html/kuliah/mymart/frontend/views/customer/showorder.php",
-				"/var/www/html/kuliah/mymart/frontend/views/layouts/main.php",
-				"/var/www/html/kuliah/mymart/frontend/controllers/CustomerController.php",
-				"/var/www/html/kuliah/mymart/frontend/views/customer/_form.php"
+				"/var/www/html/hhis/api/config/main.php"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -656,11 +758,11 @@
 			},
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 63.0
+				"height": 65.0
 			},
 			"menu_visible": true,
 			"output.exec":
@@ -674,7 +776,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -844,12 +946,12 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
@@ -864,7 +966,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 292.0,
+			"side_bar_width": 332.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -879,6 +981,66 @@
 			{
 				"selected_items":
 				[
+					[
+						"la",
+						"lastName"
+					],
+					[
+						"fi",
+						"firstName"
+					],
+					[
+						"qu",
+						"quantity"
+					],
+					[
+						"my",
+						"myCol"
+					],
+					[
+						"ng-m",
+						"ng-model\tAngularJS"
+					],
+					[
+						"back",
+						"background-color"
+					],
+					[
+						"sty",
+						"style\tAttr"
+					],
+					[
+						"ng-ini",
+						"ng-init\tAngularJS"
+					],
+					[
+						"ng",
+						"ng-app\tAngularJS"
+					],
+					[
+						"fir",
+						"firstName='John"
+					],
+					[
+						"ng-bin",
+						"ng-bind\tAngularJS"
+					],
+					[
+						"ng-",
+						"ng-model"
+					],
+					[
+						"expre",
+						"express.static"
+					],
+					[
+						"os",
+						"os.getNetworkInterfaces();"
+					],
+					[
+						"uptime",
+						"os.uptime();"
+					],
 					[
 						"s",
 						"socket.io"
@@ -1004,33 +1166,10 @@
 			"buffers":
 			[
 				{
-					"contents": "var express = require('express');\nvar path = require('path');\nvar favicon = require('serve-favicon');\nvar logger = require('morgan');\nvar cookieParser = require('cookie-parser');\nvar bodyParser = require('body-parser');\n\n// mendifinisikan file yang akan di proses dengan express\nvar index = require('./routes/index');\nvar users = require('./routes/users');\nvar student = require('./routes/student');\n\nvar app = express(); //load express module\n\n// view engine setup\napp.set('views', path.join(__dirname, 'views'));\napp.set('view engine', 'jade');\n\n// uncomment after placing your favicon in /public\n//app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));\napp.use(logger('dev'));\napp.use(bodyParser.json());\napp.use(bodyParser.urlencoded({ extended: false }));\napp.use(cookieParser());\napp.use(express.static(path.join(__dirname, 'public')));\n\n//set url routes with router variabel\napp.use('/', index);\napp.use('/users', users);\napp.use('/student', student);\n\n// catch 404 and forward to error handler\napp.use(function(req, res, next) {\n  var err = new Error('Not Found');\n  err.status = 404;\n  next(err);\n});\n\n// error handler\napp.use(function(err, req, res, next) {\n  // set locals, only providing error in development\n  res.locals.message = err.message;\n  res.locals.error = req.app.get('env') === 'development' ? err : {};\n\n  // render the error page\n  res.status(err.status || 500);\n  res.render('error');\n});\n\nmodule.exports = app;\n",
-					"file": "/Data/Data/Node.js/indobarkom.com/app.js",
-					"file_size": 1449,
-					"file_write_time": 131457252808002146,
+					"file": "/Data/Data/Programming/angularjs/model/1.html",
 					"settings":
 					{
-						"buffer_size": 1448,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "var express = require('express');\nvar router = express.Router();\n\n/* GET users listing. */\nrouter.get('/', function(req, res, next) {\n  res.send('respond with a resource');\n});\n\nmodule.exports = router;\n",
-					"file": "/Data/Data/Node.js/indobarkom.com/routes/users.js",
-					"file_size": 203,
-					"file_write_time": 131457252807162298,
-					"settings":
-					{
-						"buffer_size": 203,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Data/Data/Node.js/indobarkom.com/package.json",
-					"settings":
-					{
-						"buffer_size": 417,
-						"encoding": "UTF-8",
+						"buffer_size": 469,
 						"line_ending": "Unix"
 					}
 				}
@@ -1058,10 +1197,62 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 354.0,
-				"last_filter": "add",
+				"height": 392.0,
+				"last_filter": "mater",
 				"selected_items":
 				[
+					[
+						"mater",
+						"Material Theme: Activate theme"
+					],
+					[
+						"enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"disable",
+						"Package Control: Disable Package"
+					],
+					[
+						"disab",
+						"Package Control: Disable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"matr",
+						"Material Theme: Activate theme"
+					],
+					[
+						"ad",
+						"Project: Add Folder"
+					],
+					[
+						"side",
+						"View: Toggle Open Files in Side Bar"
+					],
+					[
+						"cobal",
+						"Package Control: Enable Package"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"side ba",
+						"View: Toggle Side Bar"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
 					[
 						"add",
 						"Project: Add Folder"
@@ -1071,16 +1262,8 @@
 						"Package Control: Install Package"
 					],
 					[
-						"insta",
-						"Package Control: Install Package"
-					],
-					[
 						"instal",
 						"Package Control: Install Package"
-					],
-					[
-						"side",
-						"View: Toggle Open Files in Side Bar"
 					],
 					[
 						"ta",
@@ -1089,10 +1272,6 @@
 					[
 						"set bas",
 						"Set Syntax: Shell Script (Bash)"
-					],
-					[
-						"ad",
-						"Project: Add Folder"
 					],
 					[
 						"php",
@@ -1104,10 +1283,6 @@
 					],
 					[
 						"i",
-						"Package Control: Install Package"
-					],
-					[
-						"ins",
 						"Package Control: Install Package"
 					],
 					[
@@ -1175,7 +1350,7 @@
 						"Material Theme: Configuration"
 					]
 				],
-				"width": 521.0
+				"width": 530.0
 			},
 			"console":
 			{
@@ -1195,13 +1370,41 @@
 			},
 			"expanded_folders":
 			[
-				"/Data/Data/Node.js/indobarkom.com",
-				"/Data/Data/Node.js/indobarkom.com/bin",
-				"/Data/Data/Node.js/indobarkom.com/routes"
+				"/Data/Data/Programming/angularjs",
+				"/Data/Data/Programming/angularjs/model",
+				"/Data/Data/Programming/angularjs/modules/js"
 			],
 			"file_history":
 			[
+				"/Data/Data/Programming/angularjs/model/1.html",
+				"/Data/Data/Programming/angularjs/directive/1.html",
+				"/Data/Data/Programming/angularjs/directive/3.repeat-in-html.html",
+				"/Data/Data/Programming/angularjs/directive/4.ng-repeat-object.html",
+				"/Data/Data/Programming/angularjs/directive/2.data-binding.html",
+				"/Data/Data/Programming/angularjs/modules/2.adding a directive.html",
+				"/Data/Data/Programming/angularjs/modules/js/myCtrl.js",
+				"/Data/Data/Programming/angularjs/modules/3.module and controllers in a file.html",
+				"/Data/Data/Programming/angularjs/modules/1.creating module.html",
+				"/Data/Data/Programming/angularjs/modules/js/myApp.js",
+				"/Data/Data/Programming/angularjs/expression/5.angular-object.html",
+				"/Data/Data/Programming/angularjs/expression/6.angular-arrays.html",
+				"/Data/Data/Programming/angularjs/intro/ng-init.html",
+				"/Data/Data/Programming/angularjs/expression/1.html",
+				"/Data/Data/Programming/angularjs/expression/2.html",
+				"/Data/Data/Programming/angularjs/expression/3.angular-number.html",
+				"/Data/Data/Programming/angularjs/expression/4.angular-string.html",
+				"/Data/Data/Programming/angularjs/intro/1.html",
+				"/Data/Data/Programming/angularjs/intro.html",
+				"/Data/Data/Programming/Node.js/blog/routes/users.js",
+				"/Data/Data/Programming/Node.js/blog/views/index.pug",
+				"/Data/Data/Programming/react/index.html",
+				"/Data/Data/Programming/javascript/intro.html",
+				"/Data/Data/Node.js/testing/demo_os.js",
+				"/Data/Data/Node.js/testing/package.json",
+				"/Data/Data/Node.js/testing/node_modules/os/README.md",
 				"/Data/Data/Node.js/indobarkom.com/package.json",
+				"/Data/Data/Node.js/indobarkom.com/routes/users.js",
+				"/Data/Data/Node.js/indobarkom.com/app.js",
 				"/Data/Data/Node.js/indobarkom.com/index.js",
 				"/Data/Data/Node.js/websockets-playlist/public/styles.css",
 				"/Data/Data/Node.js/websockets-playlist/index.js",
@@ -1300,39 +1503,11 @@
 				"/var/www/html/php/advanced/protected/common/config/main-local.php",
 				"/var/www/html/hhis/api/controllers/ArtikelController.php",
 				"/var/www/html/hhis/common/config/bootstrap.php",
-				"/var/www/html/hhis/api/config/main.php",
-				"/var/www/html/hhis/api/controllers/NoIzinDokterController.php",
-				"/var/www/html/despa-creational/builder.php",
-				"/var/www/html/despa-creational/prototype.php",
-				"/var/www/html/despa-creational/abstract-factory.php",
-				"/var/www/html/despa-creational/factory.php",
-				"/var/www/html/despa-creational/singleton.php",
-				"/Data/Data/smt4/wpl/despa-creational/singleton.php",
-				"/home/aal/Downloads/login.html",
-				"/var/www/html/themes/hotspot aal/login.html",
-				"/var/www/html/themes/hotspot/login.html",
-				"/var/www/html/themes/flat-login-form-3-0/index.html",
-				"/var/www/html/pencitku/examples/example_sunglasses.htm",
-				"/home/aal/go/src/main.go",
-				"/var/www/html/kuliah/mymart/backend/controllers/ItemController.php",
-				"/var/www/html/kuliah/mymart/common/models/Item/Item.php",
-				"/var/www/html/kuliah/mymart/backend/views/item/_form.php",
-				"/var/www/html/kuliah/mymart/backend/views/item/index.php",
-				"/var/www/html/kuliah/mymart/backend/views/item/view.php",
-				"/home/aal/NetBeansProjects/java/ProgLan/bank jpa/src/META-INF/persistence.xml",
-				"/Data/Data/Node.js/rest-crud-master/t_user.sql",
-				"/Data/Data/Node.js/rest-crud-master/server.js",
-				"/home/aal/.zshrc",
-				"/home/aal/NetBeansProjects/java/ProgLan/ProgLanjutDesktop_JPA/src/META-INF/persistence.xml",
-				"/var/www/html/kuliah/mymart/frontend/views/customer/view.php",
-				"/var/www/html/kuliah/mymart/frontend/views/customer/showorder.php",
-				"/var/www/html/kuliah/mymart/frontend/views/layouts/main.php",
-				"/var/www/html/kuliah/mymart/frontend/controllers/CustomerController.php",
-				"/var/www/html/kuliah/mymart/frontend/views/customer/_form.php"
+				"/var/www/html/hhis/api/config/main.php"
 			],
 			"find":
 			{
-				"height": 26.0
+				"height": 70.0
 			},
 			"find_in_files":
 			{
@@ -1489,7 +1664,7 @@
 			"folders":
 			[
 				{
-					"path": "/Data/Data/Node.js/indobarkom.com"
+					"path": "/Data/Data/Programming/angularjs"
 				}
 			],
 			"groups":
@@ -1500,19 +1675,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Data/Data/Node.js/indobarkom.com/app.js",
-							"semi_transient": false,
+							"file": "/Data/Data/Programming/angularjs/model/1.html",
+							"semi_transient": true,
 							"settings":
 							{
-								"buffer_size": 1448,
+								"buffer_size": 469,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1407,
-										1407
+										468,
+										468
 									]
 								],
 								"settings":
@@ -1524,15 +1699,15 @@
 										{
 											"1":
 											[
-												1421,
-												1422
+												463,
+												467
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"Packages/BracketHighlighter/icons/tag.png",
 												"brackethighlighter.default"
 											]
 										},
@@ -1540,8 +1715,8 @@
 										{
 											"1":
 											[
-												1176,
-												1177
+												17,
+												21
 											]
 										},
 										"unmatched":
@@ -1550,352 +1725,69 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"git_gutter_is_enabled": true,
-									"highlight_line": false,
-									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-									"vintage":
-									{
-										"_vintageous_glue_until_normal_mode": false,
-										"action": null,
-										"action_count": "",
-										"mode": "mode_normal",
-										"motion": null,
-										"motion_count": "",
-										"must_capture_register_name": false,
-										"normal_insert_count": "1",
-										"partial_sequence": "",
-										"register": "\"",
-										"sequence": "",
-										"xpos": 10
-									}
-								},
-								"translation.x": 0.0,
-								"translation.y": 826.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Data/Data/Node.js/indobarkom.com/routes/users.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 203,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										82,
-										82
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-									"vintage":
-									{
-										"_vintageous_glue_until_normal_mode": false,
-										"action": null,
-										"action_count": "",
-										"mode": "mode_normal",
-										"motion": null,
-										"motion_count": "",
-										"must_capture_register_name": false,
-										"normal_insert_count": "1",
-										"partial_sequence": "",
-										"register": "\"",
-										"sequence": "",
-										"xpos": 16
-									}
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/Data/Data/Node.js/indobarkom.com/package.json",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 417,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										142,
-										142
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												360,
-												361
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"brackethighlighter.default"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												142,
-												143
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content"
-									],
-									"ex_data":
-									{
-										"next_sel":
-										[
-											[
-												329,
-												329
-											]
-										]
-									},
-									"git_gutter_is_enabled": true,
-									"highlight_line": false,
-									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true,
-									"vintage":
-									{
-										"_vintageous_glue_until_normal_mode": false,
-										"_vintageous_non_interactive": false,
-										"_vintageous_processing_notation": false,
-										"action": null,
-										"action_count": "",
-										"mode": "mode_normal",
-										"motion": null,
-										"motion_count": "",
-										"must_capture_register_name": false,
-										"normal_insert_count": "1",
-										"partial_sequence": "",
-										"register": "\"",
-										"sequence": "",
-										"xpos": 18
-									}
-								},
-								"translation.x": 0.0,
-								"translation.y": 63.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1903,11 +1795,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 26.0
+				"height": 27.0
 			},
 			"input":
 			{
-				"height": 63.0
+				"height": 65.0
 			},
 			"layout":
 			{
@@ -1945,7 +1837,7 @@
 			"project": "",
 			"replace":
 			{
-				"height": 48.0
+				"height": 50.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2115,12 +2007,12 @@
 			},
 			"select_project":
 			{
-				"height": 0.0,
+				"height": 500.0,
 				"last_filter": "",
 				"selected_items":
 				[
 				],
-				"width": 0.0
+				"width": 380.0
 			},
 			"select_symbol":
 			{
@@ -2134,22 +2026,17 @@
 			"selected_group": 0,
 			"settings":
 			{
-				"_vintageous_reset_during_init": true,
-				"vintage":
-				{
-					"_cmdline_cd": "/Data/Data/Node.js/indobarkom.com"
-				}
 			},
 			"show_minimap": true,
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 292.0,
+			"side_bar_width": 332.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 58,
+			"window_id": 74,
 			"workspace_name": ""
 		}
 	],
